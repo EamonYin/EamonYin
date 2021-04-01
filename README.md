@@ -1,7 +1,7 @@
 
 # 小名同学💯（Eamon）
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EamonYin&show_icons=true&theme=graywhite"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=EamonYin&show_icons=true&theme=DodgerBlue"/>
 </p>
 <p align="center">感谢关注小名同学💯</p>
 
